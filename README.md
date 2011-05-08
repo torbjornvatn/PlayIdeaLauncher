@@ -19,7 +19,7 @@ passes this on to IntelliJ's internal xml-rpc based file opener server.
 
 ## Prerequsites
 
-You need to have [xmlrpc](http://xmlrpc-c.sourceforge.net/) located at `/usr/local/bin/xmlrpc`. 
+You need to have [xmlrpc](http://xmlrpc-c.sourceforge.net/) located in `/usr/local/bin/xmlrpc` 
 
 If you install it with `brew install xmlrpc-c` this location is the default. If your xmlrpc executable is located elsewhere you have to alter the path inside `PlayIdeaLauncher` using the AppleScript Editor.
 
