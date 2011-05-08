@@ -1,4 +1,4 @@
-#<img src="http://img.viralpatel.net/2011/01/Play-framework.png" alt="Play logo" title="Play logo" align="left" />_"Open file from errors pages"_ launcher for IntelliJ IDEA
+<img src="http://img.viralpatel.net/2011/01/Play-framework.png" alt="Play logo" title="Play logo" align="left" /> #_"Open file from errors pages"_ launcher for IntelliJ IDEA
 
 In your Play! application's `application.conf` file you'll find this section of commented out code
 
