@@ -25,7 +25,7 @@ If you install it with `brew install xmlrpc-c` this location is the default. If 
 
 ## Installation
 
-1. [Download the application](https://github.com/torbjornvatn/PlayIdeaLauncher/tree/master/PlayIdeaLauncher.app)
+1. [Download the application](https://github.com/torbjornvatn/PlayIdeaLauncher/archives/master)
 2. Place it on your path and chmod it to be executable.
 
 I like to place it in `~/bin`, but it can go anywhere on the $PATH.
