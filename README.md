@@ -1,4 +1,4 @@
-<img src="https://github.com/downloads/torbjornvatn/PlayIdeaLauncher/play_logo.png" alt="Play logo" title="Play logo" align="left" /> 
+<img src="https://github.com/downloads/torbjornvatn/PlayIdeaLauncher/play_logo.png" alt="Play logo" title="Play logo" align="left" style="margin-top: 20px;"/> 
             
 #_"Open file from errors pages"_ launcher for IntelliJ IDEA
 
