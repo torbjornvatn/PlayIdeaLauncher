@@ -1,7 +1,6 @@
 <img src="https://github.com/downloads/torbjornvatn/PlayIdeaLauncher/play_logo.png" alt="Play logo" title="Play logo" align="left" /> 
-            #_"Open file from errors pages"_ launcher for IntelliJ IDEA
-
-
+            
+#_"Open file from errors pages"_ launcher for IntelliJ IDEA
 
 In your Play! application's `application.conf` file you'll find this section of commented out code
 
